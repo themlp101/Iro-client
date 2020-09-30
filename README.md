@@ -6,6 +6,11 @@ Iro uses spaced repetition learning to teach you the words for a variety of colo
 
 Matt Patterson and Josh Struve.
 
+## Demo Credentials
+
+username: admin
+password: pass
+
 ## UI
 
 ### Branding
